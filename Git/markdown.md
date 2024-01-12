@@ -12,12 +12,12 @@
 
 <br>
 
-```javascript
-console.log('hello')
+```python
+print('hello')
 ```
-javascript는 'console.log를 이용해 출력한다
 
-```cpp
+
+```c++
 std::cout<<"hello";
 ```
 
@@ -32,7 +32,8 @@ std::cout<<"hello";
 ---
 ------
 
-**굵게**<br><br><br><br><br>
+**굵게**
+
 *기울임*
 
 ~~취소선~~
